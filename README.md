@@ -1,2 +1,2 @@
-# Delta-4
-A payment page for delta 4
+# Payment-page
+a page that lead you to my payment page
